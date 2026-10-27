@@ -1,4 +1,5 @@
 # MNIST ile MLP Tabanlı El Yazısı Rakam Tanıma
+**Zeynep Özge Temel**
 
 **Öğrenci No:** 23120205072
 
